@@ -6,10 +6,10 @@ This repository serves as a comprehensive collection of Machine Learning impleme
 
 ### Regression
 *   [Simple Linear Regression](./Simple_Linear_Regression.ipynb)
-*   [Multiple Linear Regression](./Multiple_Linear_Regression.ipynb)
+*   [Multiple Linear Regression](./Multiple%20(LR).ipynb)
 *   [Polynomial Regression](./Polynomial.ipynb)
 *   [Non-Linear Regression 1](./Non_Linear_Regr1.ipynb)
-*   [Non-Linear Regression 2](./Non_Linear_Regression_2.ipynb)
+*   [Non-Linear Regression 2](./Non_Linear_Regression%202.ipynb)
 
 ### Classification
 *   [Logistic Regression](./Logistic_Regression.ipynb)
@@ -23,8 +23,8 @@ This repository serves as a comprehensive collection of Machine Learning impleme
 *   [Hierarchical Clustering](./Hierarchical.ipynb)
 
 ### Recommender Systems
-*   [Content-Based Filtering](./Content_Based.ipynb)
-*   [Collaborative Filtering](./Collaborative_Filtering.ipynb)
+*   [Content-Based Filtering](./Content%20_%20based.ipynb)
+*   [Collaborative Filtering](./Collaborative%20_%20Filtering.ipynb)
 
 ### Practical Projects
 *   [House Price Prediction](./HOUSE_PRICE.ipynb)
